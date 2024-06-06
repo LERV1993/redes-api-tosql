@@ -1,5 +1,5 @@
 
-# Consumir api y registrarlos en base de datos SQL
+# Consumir api y registrar datos en base de datos SQL
 
 Este repositorio utiliza una base de datos SQL la cual está configurada por defecto en el puerto 3308.
 
